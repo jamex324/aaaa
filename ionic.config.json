@@ -1,0 +1,7 @@
+{
+  "name": "jbapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
